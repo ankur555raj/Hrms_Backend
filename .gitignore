@@ -1,0 +1,17 @@
+# Node
+node_modules/
+.env
+
+# Django
+venv/
+__pycache__/
+db.sqlite3
+*.pyc
+.env
+
+# Build
+build/
+dist/
+
+# OS
+.DS_Store
